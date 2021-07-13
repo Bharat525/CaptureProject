@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/CaptureProject/static/js/main.d751350a.chunk.js",
+    "main.js.map": "/CaptureProject/static/js/main.d751350a.chunk.js.map",
+    "runtime-main.js": "/CaptureProject/static/js/runtime-main.71c4fe91.js",
+    "runtime-main.js.map": "/CaptureProject/static/js/runtime-main.71c4fe91.js.map",
+    "static/js/2.5859b2ee.chunk.js": "/CaptureProject/static/js/2.5859b2ee.chunk.js",
+    "static/js/2.5859b2ee.chunk.js.map": "/CaptureProject/static/js/2.5859b2ee.chunk.js.map",
+    "static/js/3.51592a1d.chunk.js": "/CaptureProject/static/js/3.51592a1d.chunk.js",
+    "static/js/3.51592a1d.chunk.js.map": "/CaptureProject/static/js/3.51592a1d.chunk.js.map",
+    "index.html": "/CaptureProject/index.html",
+    "static/js/2.5859b2ee.chunk.js.LICENSE.txt": "/CaptureProject/static/js/2.5859b2ee.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.9c7a85d4.png": "/CaptureProject/static/media/athlete-small.9c7a85d4.png",
+    "static/media/athlete2.b216a5ad.png": "/CaptureProject/static/media/athlete2.b216a5ad.png",
+    "static/media/clock.4b7cde7e.svg": "/CaptureProject/static/media/clock.4b7cde7e.svg",
+    "static/media/diaphragm.db801491.svg": "/CaptureProject/static/media/diaphragm.db801491.svg",
+    "static/media/good-times2.4ea1be17.jpg": "/CaptureProject/static/media/good-times2.4ea1be17.jpg",
+    "static/media/goodtimes-small.94ab060d.png": "/CaptureProject/static/media/goodtimes-small.94ab060d.png",
+    "static/media/home2.a65a4256.png": "/CaptureProject/static/media/home2.a65a4256.png",
+    "static/media/homeImg.9836de69.png": "/CaptureProject/static/media/homeImg.9836de69.png",
+    "static/media/money.72da7c48.svg": "/CaptureProject/static/media/money.72da7c48.svg",
+    "static/media/teamwork.aa71db2e.svg": "/CaptureProject/static/media/teamwork.aa71db2e.svg",
+    "static/media/the-racer2.580f15cd.jpg": "/CaptureProject/static/media/the-racer2.580f15cd.jpg",
+    "static/media/theracer-small.51874213.png": "/CaptureProject/static/media/theracer-small.51874213.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71c4fe91.js",
+    "static/js/2.5859b2ee.chunk.js",
+    "static/js/main.d751350a.chunk.js"
+  ]
+}
